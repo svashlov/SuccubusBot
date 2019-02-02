@@ -1,0 +1,9 @@
+{
+	"says": {
+		"hola": ["Hey, ¡me alegro de verte, ##user##!", "Hola, ##user##.", "¡¡Heyyy ##user##!!", "¡Cuánto tiempo, ##user##!", "Pa ti mi cola", "Hoy te ves muy guap@, ##user##"]
+	},
+	"contains": {
+		"qué opinas de " : ["Pienso que es muy... ¡sexy!", "¡Me cae genial!", "Me tiene enamorada... :heart_eyes: ", "No le aguanta ni su madre.", "Es lo peor."],
+		" me ama?": ["Claro que sí, dalo todo por esa relación.", "Lo siento, no te ama... ni te amará nunca."]
+	}
+}
